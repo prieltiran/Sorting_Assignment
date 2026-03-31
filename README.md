@@ -1,8 +1,8 @@
 # Sorting Algorithms Comparison Project
 #Data Structures and Algorithms
 ## Student Details
-* **Student Name:** [Priel Tiran]
-* **Student Name:** [Omer Dagan]
+* **Student Name:** Priel Tiran
+* **Student Name:** Omer Dagan
 
 ## Selected Algorithms
 In this assignment, we compared the following algorithms:
