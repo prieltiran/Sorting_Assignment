@@ -17,7 +17,7 @@ In this assignment, we compared the following algorithms:
 ## Part B - Comparative Experiment (Random Arrays)
 Below is the performance comparison of the algorithms on arrays filled with random integers.
 
-![result1](result1.png)
+![result1](result1.jpeg)
 
 **Short Explanation:**
 In this graph, we can see that as the array size increases, the execution time for **Bubble Sort**, **Selection Sort**, and **Insertion Sort** grows quadratically ($O(n^2)$). In contrast, **Quick Sort** and **Merge Sort** ($O(n \log n)$) remain extremely fast and efficient even for larger datasets.
@@ -27,7 +27,7 @@ In this graph, we can see that as the array size increases, the execution time f
 ## Part C - Nearly Sorted Arrays (Noise Analysis)
 In this experiment, we started with a sorted array and added random "noise" (5% or 20% random swaps).
 
-![result2](result2.png)
+![result2](result2.jpeg)
 
 **Analysis of Results:**
 * **How the running times changed:** The most notable change is seen in **Insertion Sort**, which performed significantly faster than it did in the random experiment. **Quick Sort** and **Merge Sort** remained very efficient, while **Selection Sort** showed almost no change in performance.
